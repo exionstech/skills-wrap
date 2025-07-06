@@ -1,0 +1,23 @@
+# Source files
+src/
+tsconfig.json
+rollup.config.js
+
+# Development files
+.eslintrc.js
+.gitignore
+.github/
+
+# Tests
+__tests__/
+*.test.ts
+*.test.tsx
+*.spec.ts
+*.spec.tsx
+
+# Documentation (except README)
+docs/
+examples/
+
+# Development dependencies
+node_modules/
