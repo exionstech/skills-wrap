@@ -1,6 +1,6 @@
 {
   "name": "@exionstech/skills-wrap",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Comprehensive tech skills and roles database with utilities for IT service companies.",
   "type": "module",
   "main": "dist/index.js",
