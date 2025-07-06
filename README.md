@@ -569,7 +569,7 @@ We welcome contributions! Here's how you can help:
 
 - 🐛 **Bug Reports**: [GitHub Issues](https://github.com/exionstech/skills-wrap/issues)
 - 💬 **General Questions**: [GitHub Discussions](https://github.com/exionstech/skills-wrap/discussions)
-- 📧 **Email Support**: contact@exionstech.com
+- 📧 **Email Support**: exionstech@gmail.com
 - 🐦 **Twitter**: [@ExionsTech](https://twitter.com/ExionsTech)
 
 ---
@@ -618,7 +618,7 @@ copies or substantial portions of the Software.
 
 <div align="center">
   <br>
-  <strong>🚀 Built with ❤️ by <a href="https://exionstech.com">ExionsTech</a></strong>
+  <strong>🚀 Built with ❤️ by <a href="https://exions.tech">ExionsTech</a></strong>
   <br><br>
   <strong>⭐ Star this repo if it helped you!</strong>
   <br><br>
